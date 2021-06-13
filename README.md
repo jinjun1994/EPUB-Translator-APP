@@ -11,6 +11,7 @@ EPUB-Translator-APP
 
 # todo
 界面美化
+
 deepl 接口速度优化后更新0.0.2版本
 
 
