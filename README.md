@@ -8,3 +8,9 @@ EPUB-Translator-APP
 
 # 百度翻译 api 获取 
 参考 https://doc.tern.1c7.me/zh/folder/setting/#%E7%99%BE%E5%BA%A6
+
+# todo
+界面美化
+deepl 接口速度优化后更新0.0.2版本
+
+
